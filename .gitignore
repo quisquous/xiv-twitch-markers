@@ -1,0 +1,12 @@
+.vs
+**/*.suo
+bin/
+obj/
+packages/
+publish/
+node_modules
+package-lock.json
+.idea/*
+.idea/
+*.iml
+.DS_Store
